@@ -1,7 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import urllib
-import webbrowser
 
 def traerCrypto(url,nombre):
     #Preguntar para ver en btc o usd
